@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mini Adventure</string>
+
+    <string name="json">https://storage.googleapis.com/redmy_navy/demo_mario.json</string>
+</resources>

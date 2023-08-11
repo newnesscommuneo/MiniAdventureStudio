@@ -1,0 +1,230 @@
+
+MySprites.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+background_main
+  rotate: false
+  xy: 2, 375
+  size: 320, 200
+  orig: 320, 200
+  offset: 0, 0
+  index: -1
+bg_game_t1
+  rotate: false
+  xy: 2, 577
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+bg_game_t2
+  rotate: false
+  xy: 2, 795
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+bg_game_t3
+  rotate: false
+  xy: 388, 795
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+boulder
+  rotate: false
+  xy: 324, 527
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+bridge
+  rotate: false
+  xy: 951, 959
+  size: 23, 10
+  orig: 23, 10
+  offset: 0, 0
+  index: -1
+btn_close_circle
+  rotate: false
+  xy: 112, 338
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+btn_fire
+  rotate: false
+  xy: 324, 490
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+btn_jump
+  rotate: false
+  xy: 2, 187
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1
+btn_left_nav
+  rotate: false
+  xy: 490, 644
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1
+btn_pause_game
+  rotate: false
+  xy: 993, 987
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+btn_play_circle
+  rotate: false
+  xy: 590, 726
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+btn_privacy
+  rotate: false
+  xy: 951, 971
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+btn_rate_circle
+  rotate: false
+  xy: 388, 582
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+btn_reload_circle
+  rotate: false
+  xy: 70, 296
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+btn_right_nav
+  rotate: false
+  xy: 774, 908
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1
+btn_share
+  rotate: false
+  xy: 2, 219
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+btn_sound
+  rotate: false
+  xy: 70, 333
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+bullet_sprite
+  rotate: false
+  xy: 774, 940
+  size: 70, 14
+  orig: 70, 14
+  offset: 0, 0
+  index: -1
+explode_sprite
+  rotate: false
+  xy: 774, 940
+  size: 70, 14
+  orig: 70, 14
+  offset: 0, 0
+  index: -1
+button_start
+  rotate: false
+  xy: 774, 956
+  size: 175, 55
+  orig: 175, 55
+  offset: 0, 0
+  index: -1
+chain
+  rotate: false
+  xy: 324, 458
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+coin_sprite
+  rotate: false
+  xy: 490, 676
+  size: 60, 15
+  orig: 60, 15
+  offset: 0, 0
+  index: -1
+cp_sprite
+  rotate: false
+  xy: 2, 261
+  size: 66, 112
+  orig: 66, 112
+  offset: 0, 0
+  index: -1
+elevator
+  rotate: false
+  xy: 590, 763
+  size: 64, 8
+  orig: 64, 8
+  offset: 0, 0
+  index: -1
+enemy_bird
+  rotate: false
+  xy: 388, 619
+  size: 60, 20
+  orig: 60, 20
+  offset: 0, 0
+  index: -1
+enemy_bug
+  rotate: false
+  xy: 590, 773
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+enemy_fish
+  rotate: false
+  xy: 672, 773
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+fire_sprite
+  rotate: false
+  xy: 846, 946
+  size: 32, 8
+  orig: 32, 8
+  offset: 0, 0
+  index: -1
+health_icon
+  rotate: false
+  xy: 44, 246
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+player_sprite
+  rotate: false
+  xy: 388, 693
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+portal_sprite
+  rotate: false
+  xy: 388, 641
+  size: 100, 50
+  orig: 100, 50
+  offset: 0, 0
+  index: -1
